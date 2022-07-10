@@ -3,6 +3,7 @@
 	"author": "Kat Doe",
 	"description": "A cool unique project",
 	"keywords": [ "freecodecamp", "back-end", "training" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
